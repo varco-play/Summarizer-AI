@@ -10,7 +10,7 @@ const App = () => {
       <div className="app">
         <Hero />
         <Demo />
-        <h5 className="text-xs text-gray-500 relative bottom-0 mt-20">Was created by Sarvar (Software Engineer)</h5>
+        <h5 className="text-xs text-gray-500 relative bottom-0 mt-40">Was created by Sarvar (Software Engineer)</h5>
       </div>
     </main>
   );
