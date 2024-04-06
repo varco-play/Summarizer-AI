@@ -10,6 +10,7 @@ const App = () => {
       <div className="app">
         <Hero />
         <Demo />
+        <h5 className="text-xs">Was created by Sarvar (Software Engineer)</h5>
       </div>
     </main>
   );
